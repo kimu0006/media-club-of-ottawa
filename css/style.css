@@ -1084,10 +1084,6 @@ footer .grid-container {
 /* -------------- END PREVIOUS WINNERS PAGE ---------------------*/
 
 /* -------------------- Join Page -------------------- */
-.grid-container{
-	display:grid;
-	grid-template-columns: 2fr 2fr;
-}	
 .join .btn-container {
     display: flex;
     flex-direction: row;
