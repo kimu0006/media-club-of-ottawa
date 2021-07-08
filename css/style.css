@@ -1084,6 +1084,14 @@ footer .grid-container {
 /* -------------- END PREVIOUS WINNERS PAGE ---------------------*/
 
 /* -------------------- Join Page -------------------- */
+
+/* Daisy's Addition start */
+.grid-container{
+	display:grid;
+	grid-template-columns: 2fr 2fr;
+}
+/* Daisy's Addition end */
+
 .join .btn-container {
     display: flex;
     flex-direction: row;
