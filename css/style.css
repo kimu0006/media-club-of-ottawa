@@ -1663,9 +1663,10 @@ Custom Media Query - 640px and up
     .join footer {
         clear: both;
     }
-
+     
     .join .grid-container {
         display: block;
+    }
 /*         grid-template-columns: 1fr 1fr;
         grid-template-rows: auto;
         grid-template-areas:
