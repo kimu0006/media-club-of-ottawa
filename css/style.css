@@ -1840,5 +1840,13 @@ Custom Media Query - 640px and up
     #carleton article {
         margin: 1rem 15rem 0 15rem;
     }
+	
+    /*JOIN PAGE 1660px----------------------------------------------------*/
+/*daisy additional code */
+    .grid-container{
+	    
+	display:grid;
+	grid-template-columns: 2fr 2fr;
+}
 
 }
