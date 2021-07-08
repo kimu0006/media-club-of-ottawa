@@ -1406,6 +1406,11 @@ Custom Media Query - 640px and up
     #carleton article {
         margin: 1rem 5rem 0 5rem;
     }
+	
+    /*JOIN PAGE 768px-------------------------------------------*/
+    .join .grid-container {
+        display: block;
+    }
 
 }
 
@@ -1664,9 +1669,7 @@ Custom Media Query - 640px and up
         clear: both;
     }
      
-    .join .grid-container {
-        display: block;
-    }
+   
 /*         grid-template-columns: 1fr 1fr;
         grid-template-rows: auto;
         grid-template-areas:
