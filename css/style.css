@@ -1668,7 +1668,12 @@ Custom Media Query - 640px and up
     .join footer {
         clear: both;
     }
-     
+     /*daisy additional code */
+    .grid-container{
+	    
+	display:grid;
+	grid-template-columns: 2fr 2fr;
+}
    
 /*         grid-template-columns: 1fr 1fr;
         grid-template-rows: auto;
@@ -1789,7 +1794,7 @@ Custom Media Query - 640px and up
         height: 313px;
     }
 
-    /*Awards Page 1660pxpx------------------------------------------------*/
+    /*Awards Page 1160pxpx------------------------------------------------*/
 
     /*General*/
 
