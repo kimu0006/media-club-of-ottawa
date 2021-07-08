@@ -1085,12 +1085,7 @@ footer .grid-container {
 
 /* -------------------- Join Page -------------------- */
 
-/* Daisy's Addition start */
-.grid-container{
-	display:grid;
-	grid-template-columns: 2fr 2fr;
-}
-/* Daisy's Addition end */
+
 
 .join .btn-container {
     display: flex;
@@ -1670,8 +1665,8 @@ Custom Media Query - 640px and up
     }
 
     .join .grid-container {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
+        display: block;
+/*         grid-template-columns: 1fr 1fr;
         grid-template-rows: auto;
         grid-template-areas:
             ".application join-intro"
@@ -1679,7 +1674,7 @@ Custom Media Query - 640px and up
             ".application get-in-touch"
             ".application . .";
         row-gap: 50px;
-    }
+    } */
 
 }
 
